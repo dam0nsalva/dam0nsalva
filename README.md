@@ -1,14 +1,18 @@
-👋 Hi, I'm DamonSalva!
+👨‍💻 DamonSalva | Ethical Hacking Enthusiast | Android Aficionado | Open Source Advocate 🌐
 
-🔒 Ethical Hacker-in-Training 🌐
-🤖 Android Enthusiast 📱
-🌟 Open Source Advocate 🚀
+🔍 Exploring the Digital Frontier, One Hack at a Time
 
-🔍 Exploring the depths of ethical hacking to safeguard the digital realm.
-🧠 Passionate about Android technology and its limitless possibilities.
-🌐 Committed to the open-source community, contributing to innovative solutions.
+📚 Committed to mastering Ethical Hacking for a safer digital world. 🛡️
 
-Join me on my journey to unlock the secrets of cybersecurity, harness the potential of Android, and promote the power of open source. Let's connect and collaborate for a more secure and accessible digital world! 🌐🔐🤝 #CyberSecurity #AndroidDev #OpenSource
+📱 Deeply passionate about Android, from development to customization. 🤖
+
+🌟 Dedicated to the open-source philosophy, fostering innovation and community collaboration. 🤝
+
+🔓 Unraveling the intricacies of cybersecurity, one line of code at a time. 💻
+
+📧 Contact: damonsalva5626@email.com | GitHub: github.com/damo0nsalva 🌐
+
+#EthicalHacker #AndroidDev #OpenSource #Cybersecurity #GitHub 🚀🔒🤖🌐
 
 <!---
 dam0nsalva/dam0nsalva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
