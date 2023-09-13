@@ -10,7 +10,7 @@
 
 🔓 Unraveling the intricacies of cybersecurity, one line of code at a time. 💻
 
-📧 Contact: damonsalva5626@email.com | GitHub: github.com/damo0nsalva 🌐
+📧 Contact: dam0nsalva5626@email.com | GitHub: github.com/damo0nsalva 🌐
 
 #EthicalHacker #AndroidDev #OpenSource #Cybersecurity #GitHub 🚀🔒🤖🌐
 
